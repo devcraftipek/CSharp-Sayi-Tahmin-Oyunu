@@ -9,8 +9,8 @@ Oyunun çalışma mantığı şu şekildedir:
 - Oyun bittikten sonra, oyuncuya tekrar oynamak isteyip istemediği sorulur.
 
   İlerideki güncellemeler
-  Kodda birkaç iyileştirme yapılabilir. Örneğin, kullanıcı girdilerinin hatalı olması durumunda programın çökmesini önlemek için girişlerin doğrulanması sağlanabilir.
- İsteğe bağlı olarak, oyuncunun tahmin hakkı dolduğunda doğru cevabı göstermek için ek bir ileti ekleyebilirsiniz.
- Kodun daha modüler olması için belki de farklı metotlar kullanılabilir. Örneğin, tahmin doğruluğunun kontrol edildiği bir metot oluşturulabilir.
- Kullanıcının devam etmek isteyip istemediği sorgusu, "e" veya "h" dışında bir giriş yapılması durumunda da çalışmalıdır.
- Kod, daha iyi anlaşılabilmesi için daha fazla açıklama içerebilir. Örneğin, hangi değişkenlerin neyi temsil ettiği daha ayrıntılı bir şekilde açıklanabilir.
+  - Kodda birkaç iyileştirme yapılabilir. Örneğin, kullanıcı girdilerinin hatalı olması durumunda programın çökmesini önlemek için girişlerin doğrulanması sağlanabilir.
+ - İsteğe bağlı olarak, oyuncunun tahmin hakkı dolduğunda doğru cevabı göstermek için ek bir ileti ekleyebilirsiniz.
+ - Kodun daha modüler olması için belki de farklı metotlar kullanılabilir. Örneğin, tahmin doğruluğunun kontrol edildiği bir metot oluşturulabilir.
+ - Kullanıcının devam etmek isteyip istemediği sorgusu, "e" veya "h" dışında bir giriş yapılması durumunda da çalışmalıdır.
+ - Kod, daha iyi anlaşılabilmesi için daha fazla açıklama içerebilir. Örneğin, hangi değişkenlerin neyi temsil ettiği daha ayrıntılı bir şekilde açıklanabilir.
