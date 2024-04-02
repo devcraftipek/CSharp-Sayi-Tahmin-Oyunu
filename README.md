@@ -1,7 +1,8 @@
 # CSharp-Sayi-Tahmin-Oyunu
 Bu projenin amacı, C# dilini kullanarak basit bir oyun geliştirmek ve aynı zamanda GitHub'u kullanarak kod paylaşımı ve işbirliği yapma deneyimini sağlamaktır.
 Bu C# projesi, kullanıcıya 1 ile 100 arasında rastgele seçilen bir sayıyı tahmin etme şansı veren basit bir sayı tahmin oyununu uygular. Oyun, kullanıcıya beş hakkı olduğunu bildirir ve her tahmin sonrasında doğru cevabı verir. Kullanıcı doğru cevabı tahmin ederse, kaç turda bildiği ve aldığı puan gibi bilgileri sunar.
-Oyunun çalışma mantığı şu şekildedir:
+
+**Oyunun çalışma mantığı şu şekildedir:**
 - Bir do-while döngüsü kullanarak, oyuncunun oyunu tekrar oynamak isteyip istemediğini sorgular.
 - Oyun başladığında, bir rastgele sayı seçilir ve oyuncudan bu sayıyı tahmin etmesi istenir.
 - Oyuncunun her tahmini sonrasında, kalan hakları ve tahminin doğruluğunu bildiren geri bildirimler verilir.
